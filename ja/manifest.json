@@ -3,7 +3,7 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "/ja/",
     "name": "Topo",
     "short_name": "Ice-Hazymoon",
     "description": "Topo",
